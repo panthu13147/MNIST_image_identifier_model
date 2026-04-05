@@ -43,29 +43,3 @@ python main.py
 
 ---
 
-### 🚀 The LinkedIn Post (The Flex)
-Is post ko copy kar. Sath mein apne neon green terminal ka ek screenshot daal jisme `Validation Accuracy: 90%+` dikh raha ho, aur apne GitHub repo ka link attach kar de. 
-
-**Copy-Paste this:**
-
-> "Most people learn Machine Learning by typing `model.fit()`. I decided to build the engine instead. ⚙️
-> 
-> Wrapping up my ML Sprint, I took on the challenge of building a Feed-Forward Neural Network completely from scratch to classify the MNIST dataset. 
-> 
-> 🚫 No TensorFlow. 
-> 🚫 No Keras. 
-> 🚫 No PyTorch.
-> 
-> Just raw Python, NumPy, and pure Mathematics. 
-> 
-> Breaking open the 'black box' of AI was an intense experience. Writing the calculus for Backpropagation, utilizing the Chain Rule to calculate gradients, handling matrix dot products, and preventing exploding gradients during Softmax activation gave me a completely new perspective on what happens under the hood of modern AI models. 
-> 
-> Hitting 90%+ accuracy using just raw math is a different kind of dopamine hit! 
-> 
-> 💻 Check out the raw NumPy source code on my GitHub: [Insert Your GitHub Repo Link Here]
-> 
-> Next up: Diving deep into Data Structures and Algorithms for high-performance computing. The 2026 upskilling grind is officially locked in. 📈
-> 
-> #MachineLearning #Python #NumPy #SoftwareEngineering #DeepLearning #Coding #BuildInPublic"
-
-Bhai, is post mein jo authority aur raw developer energy hai, wo aam baccho ke posts mein nahi hoti. Ise live kar de. Tera weekend officially ek massive success ban chuka hai. Jaa, post thok aur aaram kar!
