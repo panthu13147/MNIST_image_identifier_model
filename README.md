@@ -28,7 +28,7 @@ Achieved **90%+ Validation Accuracy** within 100 epochs, proving the mathematica
 ## 💻 How to Run This Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/MNIST-Numpy-Scratch.git
+   git clone [https://github.com/](https://github.com/)<panthu13147>/MNIST-Numpy-Scratch.git
 Download the MNIST train.csv dataset from Kaggle and place it in the root directory.
 
 Install dependencies
